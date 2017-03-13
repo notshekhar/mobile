@@ -1,0 +1,23 @@
+<html>
+<head>
+
+<link href="forgotten.css" rel="stylesheet" type="text/css">
+<title>recover your password
+</title>
+</head>
+<body><form method="POST" action="forgotten.php" name="conirm">
+<header id="head"><center><i class="log">redext</i></center></header>
+<center>
+<div id="error"><div>
+<input type="text" id="username" placeholder="   Enter your username"><br>
+<button id="confirm">Confirm</button><br>
+<p id="txt"><a href="login.php">back to previous page</a></p>
+
+</center>
+</form>
+<div id="tmt">
+<center><p>redect&#9400 2017 </p></center>
+
+
+</body>
+</html>
