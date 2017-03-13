@@ -23,12 +23,11 @@ body {
     height: 7.8%;
     border-color: white;
     border-style: none;
-    border-radius: 4px 4px 0 0;
+    border-radius: 4px 4px 4px 4px;
 	box-sizing: border-box;
 	border-bottom: 1px solid #e5e5e5;
     line-height: 20px;
 	box-shadow: 0px 0px 0 0.9px rgba(0, 0, 0, .10);
-    border-radius: 0 0 4px 4px;
 }
 .log {
     color: white;
